@@ -1,0 +1,10 @@
+C:\Users\DOLLY\Documents\Visual Studio 2008\Projects\MajorProject\MajorProject\bin\x86\Debug\MajorProject.exe
+C:\Users\DOLLY\Documents\Visual Studio 2008\Projects\MajorProject\MajorProject\bin\x86\Debug\MajorProject.pdb
+C:\Users\DOLLY\Documents\Visual Studio 2008\Projects\MajorProject\MajorProject\bin\x86\Debug\MajorProject.xml
+C:\Users\DOLLY\Documents\Visual Studio 2008\Projects\MajorProject\MajorProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\DOLLY\Documents\Visual Studio 2008\Projects\MajorProject\MajorProject\obj\x86\Debug\MajorProject.Form1.resources
+C:\Users\DOLLY\Documents\Visual Studio 2008\Projects\MajorProject\MajorProject\obj\x86\Debug\MajorProject.Resources.resources
+C:\Users\DOLLY\Documents\Visual Studio 2008\Projects\MajorProject\MajorProject\obj\x86\Debug\MajorProject.vbproj.GenerateResource.Cache
+C:\Users\DOLLY\Documents\Visual Studio 2008\Projects\MajorProject\MajorProject\obj\x86\Debug\MajorProject.exe
+C:\Users\DOLLY\Documents\Visual Studio 2008\Projects\MajorProject\MajorProject\obj\x86\Debug\MajorProject.xml
+C:\Users\DOLLY\Documents\Visual Studio 2008\Projects\MajorProject\MajorProject\obj\x86\Debug\MajorProject.pdb
